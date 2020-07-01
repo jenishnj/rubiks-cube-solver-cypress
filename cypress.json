@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://iamthecu.be/",
+  "ignoreTestFiles": "**/examples/**",
+  "numTestsKeptInMemory": 0,
+  "$schema": "https://on.cypress.io/cypress.schema.json"
+}

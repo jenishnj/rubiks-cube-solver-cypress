@@ -1,0 +1,24 @@
+{
+  "name": "rubiks-cube-solver-cypress",
+  "version": "1.0.0",
+  "description": "This contains Rubik's cube solver with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jj-automation/rubiks-cube-solver-cypress.git"
+  },
+  "keywords": [],
+  "author": "Jenish Jariwala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jj-automation/rubiks-cube-solver-cypress/issues"
+  },
+  "homepage": "https://github.com/jj-automation/rubiks-cube-solver-cypress#readme",
+  "devDependencies": {
+    "cypress": "^4.8.0",
+    "rubiks-cube-solver": "^1.2.0"
+  }
+}
